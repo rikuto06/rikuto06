@@ -3,7 +3,7 @@
 1.I'm a web frontend developer from Japan<br>
 2.My favorites are React, TypeScript
 
-##Programming Languages
+## Programming Languages
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript)
 
