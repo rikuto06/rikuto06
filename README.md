@@ -5,7 +5,7 @@
 
 ##Programming Languages
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+![](https://skillicons.dev/icons?i=html,css,js,typescript)
 
 <!--
 **rikuto06/rikuto06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
