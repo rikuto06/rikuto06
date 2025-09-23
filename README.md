@@ -3,11 +3,11 @@
 1.I'm a web frontend developer from Japan<br>
 2.My favorites are React, TypeScript
 
-## Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,typescript)
+## tech skills 
+![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github)
 
-## Frameworks and Library
-![](https://skillicons.dev/icons?i=react,nextjs)
+## design skills
+![](https://skillicons.dev/icons?i=figma,)
 
 
 
