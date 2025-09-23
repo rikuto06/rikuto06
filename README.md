@@ -1,6 +1,6 @@
 # ABOUT ME
 
-1.I'm a web frontend developer from Japan
+1.I'm a web frontend developer from Japan<br>
 2.My favorites are React, TypeScript
 
 ##Programming Languages
