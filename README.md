@@ -7,7 +7,7 @@
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github)
 
 ## design skills
-![](https://skillicons.dev/icons?i=figma,)
+![](https://skillicons.dev/icons?i=figma,photoshop)
 
 
 
