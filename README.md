@@ -3,7 +3,7 @@
 1.I'm a web frontend developer from Japan<br>
 2.My favorites are React, TypeScript
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto06&layout=compact)
 
 ## tech skills 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github)
