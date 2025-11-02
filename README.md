@@ -4,7 +4,7 @@
 2.My favorites are React, TypeScript
 
 ## tech skills 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github,php)
 
 ## design skills
 ![](https://skillicons.dev/icons?i=figma,photoshop)
