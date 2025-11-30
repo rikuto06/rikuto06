@@ -1,7 +1,9 @@
 # ABOUT ME
 
-1.I'm a web frontend developer from Japan<br>
-2.My favorites are React, TypeScript
+デジタルハリウッドSTUDIO by LIGにてWeb制作を学んでいます。
+スクールでは主にJavaScriptまでの学習ですが、フロントエンドの最新技術に強い興味があり、Next.js や Tailwind CSS、アニメーションライブラリなどを自主的に学習・実装しています。
+まだまだ成長途中ではありますが、新しい技術を吸収し続けることを大切にしており、毎日の学習を通してモダンなUI/UXの実現に取り組んでいます。
+
 
 ## tech skills 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github,php)
