@@ -6,7 +6,7 @@
 
 
 ## tech skills 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,vite,github,php,wordpress)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs,astro,vite,github,php,wordpress)
 
 ## design skills
 ![](https://skillicons.dev/icons?i=figma,photoshop,illustrator)
